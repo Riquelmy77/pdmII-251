@@ -1,11 +1,9 @@
 # Avaliação-05
 ## Riquelmy da Silva Ricarte
 •
-22 de mai. (editado: 27 de mai.)
-
 100 pontos
 
-Data de entrega: 29 de maio
+Data de entrega: 29 de mai.
 
 Crie um programa cliente DART que usa a API do Gmail para enviar email para o GMAIL. 
 Verificar o código exemplo em https://github.com/ricdtaveira/mobdev-parte-01/tree/master/17-acesso-rede no item SMTP.
