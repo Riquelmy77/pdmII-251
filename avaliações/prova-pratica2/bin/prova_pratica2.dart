@@ -119,7 +119,10 @@ main() async {
   print(jsonString);
 
   // Configura as credenciais SMTP do Gmail
-  final smtpServer = gmail('riquelmyquelmin@gmail.com', 'crcy arzp nekn rywj');
+  final smtpServer = gmail(
+    'riquelmy.ricarte08@aluno.ifce.edu.br',
+    'wasr skat csmg lbtc',
+  );
 
   // Cria uma mensagem de e-mail
   final message =
