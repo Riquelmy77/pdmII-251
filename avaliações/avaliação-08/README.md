@@ -1,5 +1,5 @@
 # Avaliação-08
-## Riquelmy da Silva Ricarte
+## Riquelmy da Silva Ricarte e Matheus Cardoso Tabosa Braga
 •
 ## Enunciado:
 Problema de Programação Flutter: Consumo de API e ListView Dinâmica
